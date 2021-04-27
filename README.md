@@ -22,8 +22,12 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 
 ## Table of Contents
 
-[Frontend](#frontend)
-[Multilanguages](#multilanguages)
+- [Frontend](#Frontend)
+- [Multilanguages](#Multilanguages)
+- [Client area](#Client area)
+- [Admin area](#Admin area)
+- [Features](#Features)
+- [Usage](#Usage)
 
 ### Frontend
 
