@@ -1,0 +1,4 @@
+#регистрация юзера
+
+GET http://reviewli.loc/ru/api/user/create/a1@exa2mpl1e.net
+Authorization: Bearer test
