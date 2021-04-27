@@ -22,7 +22,7 @@ class SignupUser extends Mailable {
 
   //главный метод
   public function build() {
-    return $this->from('support@reviewli')
+    return $this->from('support@reviewli.loc')
       //->view('emails.signupuser')
       ->markdown('emails.signupuserMarkdown')
       ->text('emails.signupuserPlain')
