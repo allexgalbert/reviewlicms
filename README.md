@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/allexgalbert/reviewlicms">
-<img src="https://github.com/allexgalbert/reviewlicms/blob/main/DOC/fullLogo.png" width="400"></a></p>
+<img src="https://raw.githubusercontent.com/allexgalbert/reviewlicms/master/DOC/fullLogo.png" width="400"></a></p>
 
 # Reviewli CMS
 
