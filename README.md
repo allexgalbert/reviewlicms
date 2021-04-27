@@ -23,8 +23,8 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 ## Table of Contents
 
 [Frontend](#frontend)
+[Multilanguages](#multilanguages)
 
-<a name="frontend"/>
 ### Frontend
 
 - Главная страница
