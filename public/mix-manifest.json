@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js?id=e8d79fa430d4bfa5e56a",
+    "/css/app.css": "/css/app.css?id=90a6be765b6514fa9144",
+    "/js/backend/admins.js": "/js/backend/admins.js?id=91c1764d25913b03587b",
+    "/js/backend/brands.js": "/js/backend/brands.js?id=9b2e1cda932e6e9473b4",
+    "/js/backend/categories.js": "/js/backend/categories.js?id=4f98d5f8642dceca5a87",
+    "/js/backend/features.js": "/js/backend/features.js?id=47802ca9bbe640561f01",
+    "/js/backend/global/toast.js": "/js/backend/global/toast.js?id=e8484e8cba886749d491",
+    "/js/backend/messages.js": "/js/backend/messages.js?id=1e309b7e4a53eb38e574",
+    "/js/backend/reviews.js": "/js/backend/reviews.js?id=1597d96e6cb6d3efb84f",
+    "/js/backend/sites.js": "/js/backend/sites.js?id=7b23c221a8a728e3c1e5",
+    "/js/backend/users.js": "/js/backend/users.js?id=5a0cc8848431507d0191",
+    "/js/frontend/global/modal.js": "/js/frontend/global/modal.js?id=4bdbca6cdad9427d44ff",
+    "/js/frontend/global/toast.js": "/js/frontend/global/toast.js?id=13183c90f19e83915ca7",
+    "/js/frontend/home.js": "/js/frontend/home.js?id=3e5e505336818f7eb961",
+    "/js/user/chat.js": "/js/user/chat.js?id=bb4ce0e2914f6f5446e8",
+    "/js/user/profile.js": "/js/user/profile.js?id=a65f161146bf9ac51a7b"
+}
