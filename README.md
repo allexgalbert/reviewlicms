@@ -24,8 +24,8 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 
 - [Frontend](#Frontend)
 - [Multilanguages](#Multilanguages)
-- [Client area](#Client area)
-- [Admin area](#Admin area)
+- [Client area](#Client-area)
+- [Admin area](#Admin-area)
 - [Features](#Features)
 - [Usage](#Usage)
 
