@@ -18,6 +18,17 @@
 
 ```sh
 composer create-project --stability=dev allexgalbert/reviewlicms
+composer install
+npm install
+```
+
+## Запуск
+
+```sh
+npm run watch
+php artisan websockets:serve
+php artisan queue:listen --queue chatevent,unreadmessagestouserevent,unreadmessagestoadminevent
+php artisan migrate:fresh --seed
 ```
 
 ## Содержание
