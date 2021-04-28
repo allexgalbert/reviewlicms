@@ -8,28 +8,28 @@
 - Немного похожа на Trustpilot или Tripadvisor
 - Предназначена для создания каталога сайтов с отзывами о них
 
-## Requirements
+## Требования
 
 - PHP 7.4+
 - Laravel 8.12+
 - MySQL 8.0+
 
-## Installation
+## Установка
 
 ```sh
 composer create-project --stability=dev allexgalbert/reviewlicms
 ```
 
-## Table of Contents
+## Содержание
 
-- [Frontend](#Frontend)
-- [Multilanguages](#Multilanguages)
+- [Фронтенд](#Фронтенд)
+- [Мультиязычность](#Мультиязычность)
 - [Client area](#Client-area)
 - [Admin area](#Admin-area)
 - [Features](#Features)
 - [Usage](#Usage)
 
-### Frontend
+### Фронтенд
 
 - Главная страница
 - Велком-попап при первом входе
@@ -37,7 +37,7 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 - Выбор языков в меню
 - Каждый сайт имеет свою страницу с фото, урлом, отзывами, рейтингом
 
-### Multilanguages
+### Мультиязычность
 
 - Автоматическое определение локали и языка браузера пользователя
 - Если язык в списке есть, то сайт показывается на нём, иначе на английском
