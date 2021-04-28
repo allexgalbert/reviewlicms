@@ -45,7 +45,7 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 - Подгрузка файлов сообщений из языковых папок
 - Установлено 4 языка, с возможностью быстрого добавления других языков
 
-### Client area
+### Личный кабинет клиента
 
 - Страница регистрации, входа, восстановления пароля
 - Страница входа с галкой "Запомнить меня"
@@ -54,7 +54,7 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 - Страница Профиль со сменой имени
 - Страница Отзывы клиента с оценками
 
-### Admin area
+### Личный кабинет администратора
 
 - Страница входа
 - Страница Категорий: создать, изменить, удалить, найти
@@ -65,15 +65,16 @@ composer create-project --stability=dev allexgalbert/reviewlicms
 - Страница Отзывов: изменить, удалить
 - Страница Администраторов: изменить, удалить
 
-### Features
+### Особенности
 
 - Чат между пользователем и администратором на вебсокетах
 - Одновременный вход пользователем и администратором
 
-### Usage
+### Использование
 
 [YouTube](https://www.youtube.com/)
 
-## License
+## Лицензия
 
-The Reviewli CMS is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Reviewli CMS это программное обеспечение с открытым исходным кодом, лицензируемое
+по [MIT лицензии](https://opensource.org/licenses/MIT).
