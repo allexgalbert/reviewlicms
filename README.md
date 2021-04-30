@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/allexgalbert/reviewlicms/master/DOC/fullLogo.png" width="400">
+<img src="https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/fullLogo.png" width="400">
 </p>
 
 # Reviewli CMS
