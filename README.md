@@ -92,4 +92,4 @@ Reviewli CMS это программное обеспечение с откры�
 
 ## Структура
 
-![Reviewli CMS](https://raw.githubusercontent.com/allexgalbert/reviewlicms/DOC/1.png "Reviewli CMS")
+![Reviewli CMS](https://raw.githubusercontent.com/allexgalbert/reviewlicms/main/DOC/1.png "Reviewli CMS")
