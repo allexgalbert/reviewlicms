@@ -88,4 +88,4 @@ php artisan migrate:fresh --seed
 ## Лицензия
 
 Reviewli CMS это программное обеспечение с открытым исходным кодом, лицензируемое
-по [MIT лицензии](https://opensource.org/licenses/MIT).
+по [MIT лицензии](https://opensource.org/licenses/MIT). test
