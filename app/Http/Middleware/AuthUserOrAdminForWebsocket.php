@@ -17,11 +17,15 @@ class AuthUserOrAdminForWebsocket {
     $user = null;
 
     if ($user = Auth::guard('users')->user()) {
+
       //юзер залогинен
       $request->merge(['user' => $user, 'account' => 'user']);
+
     } elseif ($user = Auth::guard('admins')->user()) {
+
       //админ залогинен
       $request->merge(['user' => $user, 'account' => 'admin']);
+
     }
 
     if ($user) {
